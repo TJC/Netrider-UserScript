@@ -10,7 +10,7 @@ Installation
 ------------
 
 To install this, you'll first need to install Tampermonkey from the Chrome web
-store. After that, go into Tampermonkey and choose to add a new script, and
-then enter this URL:
+store. Once it's installed, just come back here and click this URL, then
+select the Accept box that pops up to install it.
 
 https://raw.github.com/TJC/Netrider-UserScript/master/Netrider_userscript.tamper.js
