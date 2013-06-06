@@ -13,4 +13,4 @@ To install this, you'll first need to install Tampermonkey from the Chrome web
 store. After that, go into Tampermonkey and choose to add a new script, and
 then enter this URL:
 
-
+https://raw.github.com/TJC/Netrider-UserScript/master/Netrider_userscript.tamper.js

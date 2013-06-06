@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name       Netrider hacks
-// @namespace  http://netrider.hacks.dryft.net/
+// @namespace  https://github.com/TJC/Netrider-UserScript/
 // @version    0.1
 // @description Make Netrider suitable for browsing in the workplace
 // @match      http://*netrider.net.au/*
 // @copyright  2013+, Toby Wintrmute
+// @downloadURL https://raw.github.com/TJC/Netrider-UserScript/master/Netrider_userscript.tamper.js
+// @updateURL https://raw.github.com/TJC/Netrider-UserScript/master/Netrider_userscript.tamper.js
 // ==/UserScript==
 
 
